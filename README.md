@@ -16,5 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=schrankian&show_icons=true&locale=en&layout=compact" alt="schrankian" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=schrankian&show_icons=true&locale=en" alt="schrankian" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=schrankian&" alt="schrankian" /></p>
