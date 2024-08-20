@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fabian</h1>
 <h3 align="center">A passionate fullstack developer from Germany</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.fabianschuster.net/projects](https://www.fabianschuster.net/projects)
+- 👨‍💻 Some of my projects are available at [https://www.fabianschuster.net/projects](https://www.fabianschuster.net/projects)
 
 - 📫 How to reach me **contact@fabianschuster.net**
 
